@@ -1,6 +1,12 @@
 # 16S_Metabarcoding_MarineOmicsIT_Pipeline
 ---
-![osservatori]()
+
+The Italian Omics Observatory Network of Marine Biodiversity
+
+<p align="center">
+  <img src="img/Maps-Italian-Osservatory_traspartente-1-922x1024.png" width="400"/>
+</p>
+
 ---
 # 16S rRNA V4–V5 Amplicon Processing Pipeline
 
