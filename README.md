@@ -1,7 +1,9 @@
 # 16S_Metabarcoding_MarineOmicsIT_Pipeline
 ---
 
-The Italian Omics Observatory Network of Marine Biodiversity
+This repository provides the bioinformatics scripts used to process and analyse the 16S rRNA gene metabarcoding data, developed within the framework of the Italian Omics Observatory Network of Marine Biodiversity (MarineOmicsIT). 
+The workflow is designed to support the harmonized analysis of microbial communities collected from long-term marine observatories distributed along the Italian coasts (Portofino Promontory, Gulf of Trieste, Meda Senigallia, and MareChiara – Gulf of Naples), which are also part of the European Long-Term Ecological Research (eLTER) network.
+
 
 <p align="center">
   <img src="img/Maps-Italian-Osservatory_traspartente-1-922x1024.png" width="400"/>
