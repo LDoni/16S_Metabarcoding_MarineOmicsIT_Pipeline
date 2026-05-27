@@ -1,3 +1,9 @@
+<p align="left">
+  <a href="https://doi.org/10.5281/zenodo.20413341">
+    <img src="https://zenodo.org/badge/1229652692.svg" alt="DOI">
+  </a>
+</p>
+
 # 16S_Metabarcoding_MarineOmicsIT_Pipeline
 ---
 
